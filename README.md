@@ -1,4 +1,5 @@
 https://github.com/berkecanrizai/Medical-Data-Visualizer/
+
 This projects aim is to visualize the medical data provided by the FCC to make a better understanding of the correlation between things like cholesterol, glucose, age, weight and understand the effects of cardio, alcohol intake and smoking habits between those medical observations.
 
 Data is handled using python, pandas and graphs are made with seaborn and mathplotlib. This project is written by Berke Can Rizai for one of the end projects of Data analysis with python course.
